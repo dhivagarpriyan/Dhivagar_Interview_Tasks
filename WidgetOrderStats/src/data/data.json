@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Revenue",
+      "value": "$2,047",
+      "change": "-10%",
+      "changeType": "decrease",
+      "icon": "ArrowUpRight",
+      "color": "orange"
+    },
+    {
+      "id": 2,
+      "title": "Orders",
+      "value": "356",
+      "change": "+20%",
+      "changeType": "increase",
+      "icon": "ShoppingCart",
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "title": "Dine in",
+      "value": "220",
+      "change": "+10%",
+      "changeType": "increase",
+      "icon": "Utensils",
+      "color": "red"
+    },
+    {
+      "id": 4,
+      "title": "Take away",
+      "value": "135",
+      "change": "-5%",
+      "changeType": "decrease",
+      "icon": "Coffee",
+      "color": "yellow"
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+
+
+.transaction-amount {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.transaction-amount.positive {
+    color: #28a745;
+}
+
+.transaction-amount.negative {
+    color: #dc3545;
+}
+
+.transaction-type {
+    font-size: 14px;
+    color: #888;
+}
+
+/* Responsive Styles */
+/*@media (max-width: 768px) {
+    .transaction-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .transaction-status {
+        text-align: left;
+        margin-top: 10px;
+    }
+}*/
